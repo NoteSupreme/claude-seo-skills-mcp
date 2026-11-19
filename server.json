@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.NoteSupreme/claude-seo-skills",
+  "title": "Claude SEO Skills",
+  "description": "Two open-source SEO skill packs (Claude SEO, Illyism SEO Skills) served read-only to any AI agent.",
+  "version": "1.0.0",
+  "websiteUrl": "https://github.com/NoteSupreme/claude-seo-skills-mcp",
+  "repository": { "url": "https://github.com/NoteSupreme/claude-seo-skills-mcp", "source": "github" },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://notesupreme.com/p/claude-seo-skills?token=nsp_9_aGgxEI87BKDjSVUU8Zfg" }
+  ]
+}
